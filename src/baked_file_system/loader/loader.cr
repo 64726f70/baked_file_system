@@ -1,3 +1,5 @@
+require "compress/gzip"
+require "base64"
 require "./string_encoder.cr"
 
 module BakedFileSystem

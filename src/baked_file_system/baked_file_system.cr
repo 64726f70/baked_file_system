@@ -1,3 +1,6 @@
+require "compress/gzip"
+require "base64"
+
 # A `BakedFileSystem` allows to include ("bake") static files into a compiled
 # binary and make them accessible at runtime using their path.
 #
