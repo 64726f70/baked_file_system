@@ -1,0 +1,8 @@
+name: maxminddb
+version: 0.9.1
+
+authors:
+  - 64726f70 <_@github.com>
+  - David Schovanec <david@schovi.cz>
+
+license: MIT
