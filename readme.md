@@ -48,7 +48,7 @@ $ make test
 
 ## Credit
 
-* [Shard::schovi/baked_file_system](https://github.com/schovi/baked_file_system)
+* [Shard: schovi/baked_file_system](https://github.com/schovi/baked_file_system)
 
 ## Contributors
 
