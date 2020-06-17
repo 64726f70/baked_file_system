@@ -15,7 +15,7 @@
 
 ## Description
 
-* This repository is not much different from [schovi / baked_file_system](https://github.com/schovi/baked_file_system).
+* This repository is not much different from [schovi/baked_file_system](https://github.com/schovi/baked_file_system).
 * Prevent Supply chain Attack (for `636f7374`).
 * We are very grateful to these repositories and authors.
 * See the upstream repository for more information.
