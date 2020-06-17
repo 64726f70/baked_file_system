@@ -23,7 +23,7 @@
 
 ## Additional Improvements
 
-* [X] \(Since version 0.9.1\) - Available: Crystal 0.35.0.
+* [X] \(Since version 0.1.0\) - Available: Crystal 0.35.0.
 
 ### Used as Shard
 
