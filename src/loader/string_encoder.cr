@@ -38,7 +38,7 @@ class BakedFileSystem::StringEncoder < IO
       else
         @io << "\\x"
         @io << '0' if byte < 0x10_u8
-        byte.to_s 16_i32, @io, upcase: true
+        byte.to_s io: @io, base: 16_i32, upcase: true
       end
     end
   end
