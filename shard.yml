@@ -1,9 +1,9 @@
 name: baked_file_system
-version: 0.1.0
+version: 1.0.0
 
 authors:
   - 64726f70 <_@github.com>
   - David Schovanec <david@schovi.cz>
 
-crystal: 1.0.0
+crystal: ">= 1.0.0"
 license: MIT
